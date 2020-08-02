@@ -14,7 +14,7 @@ and write or copy to paste in terminal:
  
 If not implemented, try the following
 
-`sudo apt install python3-rosinstall`
+`$ sudo apt install python3-rosinstall`
 
 
 
