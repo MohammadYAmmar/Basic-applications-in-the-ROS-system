@@ -9,8 +9,11 @@ Here we will learn the first steps how to create  2 nodes publisher and Subscrib
 
 # First we go to terminal in the Ubuntu system, to create publisher node
 and write or copy to paste in terminal:
+
  `$ roscd basic_tutorial`
+ 
 If not implemented, try the following
+
 `sudo apt install python3-rosinstall`
 
 
